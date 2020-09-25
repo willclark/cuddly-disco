@@ -5,6 +5,7 @@ on:
       - master
     paths-ignore:
       - 'package.json'
+      - 'package-lock.json'
       - 'CHANGELOG.md'
 jobs:
   build:
