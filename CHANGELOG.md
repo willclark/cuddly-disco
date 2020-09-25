@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/willclark/cuddly-disco/compare/v0.3.0...v0.4.0) (2020-09-25)
+
+
+### Features
+
+* **Flipper:** Add some cuddly ([#7](https://github.com/willclark/cuddly-disco/issues/7)) ([70cddea](https://github.com/willclark/cuddly-disco/commit/70cddeae88289ce13e09830ffc7b387fb838135e))
+
+
+
 # [0.3.0](https://github.com/willclark/cuddly-disco/compare/v0.2.0...v0.3.0) (2020-09-25)
 
 
@@ -31,16 +40,6 @@
 ### Features
 
 * Update readme ([#3](https://github.com/willclark/cuddly-disco/issues/3)) ([a81b101](https://github.com/willclark/cuddly-disco/commit/a81b101ca2a26e1ff134c57dce25b14e6fcdb479))
-
-
-
-## [0.0.1](https://github.com/willclark/cuddly-disco/compare/c053612ee9771d03945fbc9fcb309cb765505d6c...v0.0.1) (2020-09-25)
-
-
-### Features
-
-* Autoversioning ([#1](https://github.com/willclark/cuddly-disco/issues/1)) ([c053612](https://github.com/willclark/cuddly-disco/commit/c053612ee9771d03945fbc9fcb309cb765505d6c))
-* Copy changes ([#2](https://github.com/willclark/cuddly-disco/issues/2)) ([e4e4d80](https://github.com/willclark/cuddly-disco/commit/e4e4d80c8b2c33ab47b0eab0c580c6f4d0f84be0))
 
 
 
