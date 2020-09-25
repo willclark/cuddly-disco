@@ -1,2 +1,2 @@
 # Cuddly Disco!
-So cuddly
+So cuddly!
