@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/willclark/cuddly-disco/compare/v0.4.0...v0.5.0) (2020-09-25)
+
+
+### Features
+
+* Copy changes ([#8](https://github.com/willclark/cuddly-disco/issues/8)) ([2a92a14](https://github.com/willclark/cuddly-disco/commit/2a92a14805adba4987542462bca00460fbdc857f))
+
+
+
 # [0.4.0](https://github.com/willclark/cuddly-disco/compare/v0.3.0...v0.4.0) (2020-09-25)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Correct punctuation ([#4](https://github.com/willclark/cuddly-disco/issues/4)) ([3199f5f](https://github.com/willclark/cuddly-disco/commit/3199f5fbcc30e8ca051e27dc840176064224fea1))
-
-
-
-# [0.1.0](https://github.com/willclark/cuddly-disco/compare/v0.0.1...v0.1.0) (2020-09-25)
-
-
-### Features
-
-* Update readme ([#3](https://github.com/willclark/cuddly-disco/issues/3)) ([a81b101](https://github.com/willclark/cuddly-disco/commit/a81b101ca2a26e1ff134c57dce25b14e6fcdb479))
 
 
 
