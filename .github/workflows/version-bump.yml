@@ -17,6 +17,6 @@ jobs:
 #    - name: Automated Version Bump
 #      uses: phips28/gh-action-bump-version@v7.1.0
     - name: Conventional Changelog Action
-      uses: TriPSs/conventional-changelog-action@v3
+      uses: TriPSs/conventional-changelog-action@v3.2
       with:
         github-token: ${{ secrets.ACTION_TOKEN }}
