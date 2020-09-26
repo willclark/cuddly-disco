@@ -18,4 +18,4 @@ jobs:
       uses: willclark/conventional-changelog-action@v3
       with:
         github-token: ${{ secrets.ACTION_TOKEN }}
-        version-file: 'package-lock.json'
+        version-file: 'package-lock.json,package.json'
