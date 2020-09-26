@@ -15,7 +15,7 @@ jobs:
       with:
         token: ${{ secrets.ACTION_TOKEN }}
     - name: Conventional Changelog Action
-      uses: TriPSs/conventional-changelog-action@v3.2
+      uses: TriPSs/conventional-changelog-action@v3.3
       with:
         github-token: ${{ secrets.ACTION_TOKEN }}
         version-file: 'package-lock.json,package.json'
