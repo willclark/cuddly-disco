@@ -1,3 +1,12 @@
+# [0.11.0](https://github.com/willclark/cuddly-disco/compare/v0.10.0...v0.11.0) (2020-09-28)
+
+
+### Features
+
+* Chilly Willy ([#21](https://github.com/willclark/cuddly-disco/issues/21)) ([fc243a2](https://github.com/willclark/cuddly-disco/commit/fc243a22aba81cfe993385c3352d1699a4374eb9))
+
+
+
 # [0.10.0](https://github.com/willclark/cuddly-disco/compare/v0.9.0...v0.10.0) (2020-09-28)
 
 
@@ -37,15 +46,6 @@
 ### Features
 
 * Disco ([#11](https://github.com/willclark/cuddly-disco/issues/11)) ([3f5724d](https://github.com/willclark/cuddly-disco/commit/3f5724de596b9f97412398355e037128d99bf5a9))
-
-
-
-# [0.6.0](https://github.com/willclark/cuddly-disco/compare/v0.5.0...v0.6.0) (2020-09-25)
-
-
-### Features
-
-* Changes ([#10](https://github.com/willclark/cuddly-disco/issues/10)) ([cf3e64d](https://github.com/willclark/cuddly-disco/commit/cf3e64d25e1416a64f4b80810c6b1d112728d16a))
 
 
 
