@@ -17,4 +17,5 @@ jobs:
     - name: Conventional Changelog Action
       uses: TriPSs/conventional-changelog-action@v3
       with:
+        git-user-name: willclark
         github-token: ${{ secrets.ACTION_TOKEN }}
