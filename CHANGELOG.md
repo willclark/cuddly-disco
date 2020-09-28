@@ -1,3 +1,18 @@
+# [0.9.0](https://github.com/willclark/cuddly-disco/compare/v0.8.0...v0.9.0) (2020-09-28)
+
+
+### Features
+
+* 123 ([#19](https://github.com/willclark/cuddly-disco/issues/19)) ([2b2bb63](https://github.com/willclark/cuddly-disco/commit/2b2bb6312047ce485c5ef93a2503db0b2a02c568))
+* Copy changes ([#17](https://github.com/willclark/cuddly-disco/issues/17)) ([710d28b](https://github.com/willclark/cuddly-disco/commit/710d28bdee49fb91330e1e959ef5514a476d6626))
+* JIRA-123 | changes ([#18](https://github.com/willclark/cuddly-disco/issues/18)) ([5bf2eac](https://github.com/willclark/cuddly-disco/commit/5bf2eace52fac659319f989390744cc8ff318a15))
+* Remove test ([#13](https://github.com/willclark/cuddly-disco/issues/13)) ([e613db8](https://github.com/willclark/cuddly-disco/commit/e613db8466452d067ef04c014e8e7492a0b8cfb4))
+* Update README.md ([#15](https://github.com/willclark/cuddly-disco/issues/15)) ([50685d2](https://github.com/willclark/cuddly-disco/commit/50685d2e8816b4ef408590a58f82140886bca64c))
+* Update README.md ([#16](https://github.com/willclark/cuddly-disco/issues/16)) ([551e1c7](https://github.com/willclark/cuddly-disco/commit/551e1c75ac37793736de8f3f846c9690e3716d29))
+* With pizzaz ([#14](https://github.com/willclark/cuddly-disco/issues/14)) ([1b1a727](https://github.com/willclark/cuddly-disco/commit/1b1a727d55f75847fd11de8fff3b1d8a409c1ea6))
+
+
+
 # [0.8.0](https://github.com/willclark/cuddly-disco/compare/v0.7.0...v0.8.0) (2020-09-26)
 
 
@@ -31,15 +46,6 @@
 ### Features
 
 * Copy changes ([#8](https://github.com/willclark/cuddly-disco/issues/8)) ([2a92a14](https://github.com/willclark/cuddly-disco/commit/2a92a14805adba4987542462bca00460fbdc857f))
-
-
-
-# [0.4.0](https://github.com/willclark/cuddly-disco/compare/v0.3.0...v0.4.0) (2020-09-25)
-
-
-### Features
-
-* **Flipper:** Add some cuddly ([#7](https://github.com/willclark/cuddly-disco/issues/7)) ([70cddea](https://github.com/willclark/cuddly-disco/commit/70cddeae88289ce13e09830ffc7b387fb838135e))
 
 
 
