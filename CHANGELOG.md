@@ -1,3 +1,12 @@
+## [0.12.1](https://github.com/willclark/cuddly-disco/compare/v0.12.0...v0.12.1) (2020-09-28)
+
+
+### Bug Fixes
+
+* Synchronize package lock file ([b4ef8e0](https://github.com/willclark/cuddly-disco/commit/b4ef8e0a09e5cfc2ecee9210ddccec8e90d0feaa))
+
+
+
 # [0.12.0](https://github.com/willclark/cuddly-disco/compare/v0.11.0...v0.12.0) (2020-09-28)
 
 
@@ -37,15 +46,6 @@
 * Update README.md ([#15](https://github.com/willclark/cuddly-disco/issues/15)) ([50685d2](https://github.com/willclark/cuddly-disco/commit/50685d2e8816b4ef408590a58f82140886bca64c))
 * Update README.md ([#16](https://github.com/willclark/cuddly-disco/issues/16)) ([551e1c7](https://github.com/willclark/cuddly-disco/commit/551e1c75ac37793736de8f3f846c9690e3716d29))
 * With pizzaz ([#14](https://github.com/willclark/cuddly-disco/issues/14)) ([1b1a727](https://github.com/willclark/cuddly-disco/commit/1b1a727d55f75847fd11de8fff3b1d8a409c1ea6))
-
-
-
-# [0.8.0](https://github.com/willclark/cuddly-disco/compare/v0.7.0...v0.8.0) (2020-09-26)
-
-
-### Features
-
-* Test ([#12](https://github.com/willclark/cuddly-disco/issues/12)) ([b9be418](https://github.com/willclark/cuddly-disco/commit/b9be418db36ec3c104ea99fc42ea58d4e6889d60))
 
 
 
