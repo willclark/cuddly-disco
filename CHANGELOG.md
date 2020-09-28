@@ -1,3 +1,12 @@
+# [0.10.0](https://github.com/willclark/cuddly-disco/compare/v0.9.0...v0.10.0) (2020-09-28)
+
+
+### Features
+
+* **PGR:** JIRA-13 | Update config ([#20](https://github.com/willclark/cuddly-disco/issues/20)) ([624df97](https://github.com/willclark/cuddly-disco/commit/624df977d21b402f6f168bc3c7a19578ce5eb8e1))
+
+
+
 # [0.9.0](https://github.com/willclark/cuddly-disco/compare/v0.8.0...v0.9.0) (2020-09-28)
 
 
@@ -37,15 +46,6 @@
 ### Features
 
 * Changes ([#10](https://github.com/willclark/cuddly-disco/issues/10)) ([cf3e64d](https://github.com/willclark/cuddly-disco/commit/cf3e64d25e1416a64f4b80810c6b1d112728d16a))
-
-
-
-# [0.5.0](https://github.com/willclark/cuddly-disco/compare/v0.4.0...v0.5.0) (2020-09-25)
-
-
-### Features
-
-* Copy changes ([#8](https://github.com/willclark/cuddly-disco/issues/8)) ([2a92a14](https://github.com/willclark/cuddly-disco/commit/2a92a14805adba4987542462bca00460fbdc857f))
 
 
 
