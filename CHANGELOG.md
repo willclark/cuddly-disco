@@ -1,3 +1,12 @@
+# [0.12.0](https://github.com/willclark/cuddly-disco/compare/v0.11.0...v0.12.0) (2020-09-28)
+
+
+### Features
+
+* Add date-fns ([#22](https://github.com/willclark/cuddly-disco/issues/22)) ([9918647](https://github.com/willclark/cuddly-disco/commit/9918647a117f9be8dfd3d40e7e85f654f7c572f2))
+
+
+
 # [0.11.0](https://github.com/willclark/cuddly-disco/compare/v0.10.0...v0.11.0) (2020-09-28)
 
 
@@ -37,15 +46,6 @@
 ### Features
 
 * Test ([#12](https://github.com/willclark/cuddly-disco/issues/12)) ([b9be418](https://github.com/willclark/cuddly-disco/commit/b9be418db36ec3c104ea99fc42ea58d4e6889d60))
-
-
-
-# [0.7.0](https://github.com/willclark/cuddly-disco/compare/v0.6.0...v0.7.0) (2020-09-26)
-
-
-### Features
-
-* Disco ([#11](https://github.com/willclark/cuddly-disco/issues/11)) ([3f5724d](https://github.com/willclark/cuddly-disco/commit/3f5724de596b9f97412398355e037128d99bf5a9))
 
 
 
