@@ -1,8 +1,6 @@
 name: Bump version
 on:
   release:
-    types:
-      - created
     branches:
       - master
     paths-ignore:
