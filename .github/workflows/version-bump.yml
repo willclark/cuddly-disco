@@ -7,7 +7,7 @@ on:
       - 'package.json'
       - 'CHANGELOG.md'
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -20,3 +20,11 @@ jobs:
         git-user-name: willclark
         github-token: ${{ secrets.ACTION_TOKEN }}
         version-file: 'package.json'
+    - name: Create Release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.github_token }}
+      with:
+        tag_name: ${{ steps.changelog.outputs.tag }}
+        release_name: ${{ steps.changelog.outputs.tag }}
+        body: ${{ steps.changelog.outputs.clean_changelog }}
