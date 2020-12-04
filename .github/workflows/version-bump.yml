@@ -20,4 +20,4 @@ jobs:
         release-count: '0'
         git-user-name: willclark
         github-token: ${{ secrets.ACTION_TOKEN }}
-        version-file: 'package.json, package-lock.json'
+        version-file: 'package.json'
