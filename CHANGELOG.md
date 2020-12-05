@@ -1,3 +1,21 @@
+## [0.16.4](https://github.com/willclark/cuddly-disco/compare/v0.16.3...v0.16.4) (2020-12-05)
+
+
+### Bug Fixes
+
+* Add id ([9c8043f](https://github.com/willclark/cuddly-disco/commit/9c8043f1463456dc151e19e2ff9b6f495c61b131))
+
+
+
+## [0.16.3](https://github.com/willclark/cuddly-disco/compare/v0.16.2...v0.16.3) (2020-12-05)
+
+
+### Bug Fixes
+
+* Attempt release without output file ([31e3f56](https://github.com/willclark/cuddly-disco/commit/31e3f56f6f6a8f5548dec437e27d3a600981c2af))
+
+
+
 ## [0.16.2](https://github.com/willclark/cuddly-disco/compare/v0.16.1...v0.16.2) (2020-12-04)
 
 
