@@ -1,3 +1,22 @@
+## [0.16.7](https://github.com/willclark/cuddly-disco/compare/v0.16.6...v0.16.7) (2020-12-05)
+
+
+### Bug Fixes
+
+* Manually update version ([5cc884c](https://github.com/willclark/cuddly-disco/commit/5cc884c611caa1c6226c81ae929515d86e1773e5))
+* Remove exceptions ([db4a4ec](https://github.com/willclark/cuddly-disco/commit/db4a4ec88f1ece6eb8547b4f969c01b43f1b33f4))
+
+
+
+## [0.16.6](https://github.com/willclark/cuddly-disco/compare/v0.16.5...v0.16.6) (2020-12-05)
+
+
+### Bug Fixes
+
+* Include package-lock.json ([42e43e5](https://github.com/willclark/cuddly-disco/commit/42e43e5c8564cb9cfaa2ab4c0dcb400a91e53004))
+
+
+
 ## [0.16.5](https://github.com/willclark/cuddly-disco/compare/v0.16.4...v0.16.5) (2020-12-05)
 
 
