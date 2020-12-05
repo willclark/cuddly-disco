@@ -1,3 +1,12 @@
+## [0.16.6](https://github.com/willclark/cuddly-disco/compare/v0.16.5...v0.16.6) (2020-12-05)
+
+
+### Bug Fixes
+
+* Include package-lock.json ([42e43e5](https://github.com/willclark/cuddly-disco/commit/42e43e5c8564cb9cfaa2ab4c0dcb400a91e53004))
+
+
+
 ## [0.16.5](https://github.com/willclark/cuddly-disco/compare/v0.16.4...v0.16.5) (2020-12-05)
 
 
