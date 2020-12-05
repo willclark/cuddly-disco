@@ -1,3 +1,12 @@
+## [0.16.8](https://github.com/willclark/cuddly-disco/compare/v0.16.7...v0.16.8) (2020-12-05)
+
+
+### Bug Fixes
+
+* Specify paths ([fcc246e](https://github.com/willclark/cuddly-disco/commit/fcc246e9676e0c5965154d865a9ec75802136745))
+
+
+
 ## [0.16.7](https://github.com/willclark/cuddly-disco/compare/v0.16.6...v0.16.7) (2020-12-05)
 
 
