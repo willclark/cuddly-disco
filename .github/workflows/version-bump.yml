@@ -5,6 +5,7 @@ on:
       - master
     paths-ignore:
       - 'package.json'
+      - 'package-lock.json'
       - 'CHANGELOG.md'
 jobs:
   release:
@@ -15,7 +16,7 @@ jobs:
         token: ${{ secrets.ACTION_TOKEN }}
     - name: Conventional Changelog Action
       id: changelog
-      uses: TriPSs/conventional-changelog-action@v3
+      uses: TriPSs/conventional-changelog-action@v3.4.1
       with:
         release-count: '0'
         git-user-name: willclark
