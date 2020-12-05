@@ -1,3 +1,12 @@
+## [0.16.5](https://github.com/willclark/cuddly-disco/compare/v0.16.4...v0.16.5) (2020-12-05)
+
+
+### Bug Fixes
+
+* Use latest version of action ([6c21e4f](https://github.com/willclark/cuddly-disco/commit/6c21e4f0a307c23c5d555fe3326cd39bbc46f606))
+
+
+
 ## [0.16.4](https://github.com/willclark/cuddly-disco/compare/v0.16.3...v0.16.4) (2020-12-05)
 
 
