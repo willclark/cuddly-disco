@@ -1,3 +1,10 @@
+# [0.21.0](https://github.com/willclark/cuddly-disco/compare/v0.20.1...v0.21.0) (2020-12-06)
+
+
+### Features
+
+* Add package.json ([2e463c1](https://github.com/willclark/cuddly-disco/commit/2e463c1c261bbcd2e06d0728cde5111be187b484))
+
 ## [0.20.1](https://github.com/willclark/cuddly-disco/compare/v0.20.0...v0.20.1) (2020-12-06)
 
 
