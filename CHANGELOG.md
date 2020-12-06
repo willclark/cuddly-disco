@@ -1,3 +1,10 @@
+## [0.21.2](https://github.com/willclark/cuddly-disco/compare/v0.21.1...v0.21.2) (2020-12-06)
+
+
+### Bug Fixes
+
+* Update lock version ([1012035](https://github.com/willclark/cuddly-disco/commit/1012035d63747471e634e6ee49f844f11c58e25a))
+
 ## [0.21.1](https://github.com/willclark/cuddly-disco/compare/v0.21.0...v0.21.1) (2020-12-06)
 
 
