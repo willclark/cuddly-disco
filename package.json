@@ -1,6 +1,9 @@
 {
   "name": "cuddly-disco",
   "version": "0.16.8",
+  "release": {
+    "branches": ["master", "next"]
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
