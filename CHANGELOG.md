@@ -1,3 +1,10 @@
+# [0.19.0](https://github.com/willclark/cuddly-disco/compare/v0.18.0...v0.19.0) (2020-12-06)
+
+
+### Features
+
+* Attempt to update version in package.json ([c8fb01a](https://github.com/willclark/cuddly-disco/commit/c8fb01ab0e8d740261f4d2bfa1616873829bbb3d))
+
 # [0.18.0](https://github.com/willclark/cuddly-disco/compare/v0.17.0...v0.18.0) (2020-12-06)
 
 
