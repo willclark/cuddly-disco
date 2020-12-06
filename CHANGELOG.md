@@ -1,3 +1,10 @@
+## [0.20.1](https://github.com/willclark/cuddly-disco/compare/v0.20.0...v0.20.1) (2020-12-06)
+
+
+### Bug Fixes
+
+* Remote release key ([6b246a9](https://github.com/willclark/cuddly-disco/commit/6b246a9a137c4d6f01f8878fa38773a8745a694e))
+
 # [0.19.0](https://github.com/willclark/cuddly-disco/compare/v0.18.0...v0.19.0) (2020-12-06)
 
 
