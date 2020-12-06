@@ -32,6 +32,7 @@
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "@semantic-release/exec": "github:semantic-release/exec",
     "@semantic-release/git": "github:semantic-release/git",
+    "@semantic-release/npm": "github:semantic-release/npm",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
