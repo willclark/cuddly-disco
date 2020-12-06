@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/github-script@v3
-        run: "${GITHUB_WORKSPACE}/.github/script.sh"
+      - name: bump-version
+        run: ./deploy_version.sh
