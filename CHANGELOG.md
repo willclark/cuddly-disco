@@ -1,3 +1,21 @@
+# [0.17.0](https://github.com/willclark/cuddly-disco/compare/v0.16.8...v0.17.0) (2020-12-06)
+
+
+### Bug Fixes
+
+* Add releaserc ([33af82f](https://github.com/willclark/cuddly-disco/commit/33af82fb1e48e1118fd8d247a3dda3abbafb1066))
+* Call npx manually ([da0d8b1](https://github.com/willclark/cuddly-disco/commit/da0d8b1f6a218cc05221e11685dd21c8b994cd1e))
+* Remove NPM secret reference ([280e2d3](https://github.com/willclark/cuddly-disco/commit/280e2d3320fe63aaf3284057579212e9e321def4))
+* Try semantic-release action ([9049ca0](https://github.com/willclark/cuddly-disco/commit/9049ca02bf29cdc023ad77413525d9c261b48473))
+* Update tokens ([927a152](https://github.com/willclark/cuddly-disco/commit/927a152934cbaab70691ce8e3ba9192de04f77ac))
+* Use personal access token ([6a36dd7](https://github.com/willclark/cuddly-disco/commit/6a36dd7f47e89fb64b954c8c519cd5e3053c94e2))
+* Use run ([b2d7928](https://github.com/willclark/cuddly-disco/commit/b2d79289371c89490bd029070a366f8836460db8))
+
+
+### Features
+
+* Use bash script ([d2d3422](https://github.com/willclark/cuddly-disco/commit/d2d34221b3bd73c2ce95ee3c901f34b74096815d))
+
 ## [0.16.8](https://github.com/willclark/cuddly-disco/compare/v0.16.7...v0.16.8) (2020-12-05)
 
 
@@ -246,6 +264,3 @@
 
 * Autoversioning ([#1](https://github.com/willclark/cuddly-disco/issues/1)) ([c053612](https://github.com/willclark/cuddly-disco/commit/c053612ee9771d03945fbc9fcb309cb765505d6c))
 * Copy changes ([#2](https://github.com/willclark/cuddly-disco/issues/2)) ([e4e4d80](https://github.com/willclark/cuddly-disco/commit/e4e4d80c8b2c33ab47b0eab0c580c6f4d0f84be0))
-
-
-
