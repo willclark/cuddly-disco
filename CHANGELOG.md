@@ -1,3 +1,10 @@
+# [0.18.0](https://github.com/willclark/cuddly-disco/compare/v0.17.0...v0.18.0) (2020-12-06)
+
+
+### Features
+
+* Update staging ([40e2d2c](https://github.com/willclark/cuddly-disco/commit/40e2d2c67b527df2e40ca17cda03c7e266847675))
+
 # [0.17.0](https://github.com/willclark/cuddly-disco/compare/v0.16.8...v0.17.0) (2020-12-06)
 
 
