@@ -24,7 +24,6 @@ jobs:
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
     # steps:
     # - uses: actions/checkout@v2
     #   with:
