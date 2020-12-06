@@ -1,3 +1,10 @@
+## [0.21.1](https://github.com/willclark/cuddly-disco/compare/v0.21.0...v0.21.1) (2020-12-06)
+
+
+### Bug Fixes
+
+* Add npm plugin ([3f93136](https://github.com/willclark/cuddly-disco/commit/3f9313614970ac7a9f6ac5c03446a373465022f8))
+
 # [0.21.0](https://github.com/willclark/cuddly-disco/compare/v0.20.1...v0.21.0) (2020-12-06)
 
 
