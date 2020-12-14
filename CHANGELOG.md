@@ -1,3 +1,10 @@
+## [0.25.3](https://github.com/willclark/cuddly-disco/compare/v0.25.2...v0.25.3) (2020-12-14)
+
+
+### Bug Fixes
+
+* Merge steps ([28c3d6b](https://github.com/willclark/cuddly-disco/commit/28c3d6ba94d9fbe48223b6b4d6eecfdb60cafc04))
+
 ## [0.25.2](https://github.com/willclark/cuddly-disco/compare/v0.25.1...v0.25.2) (2020-12-14)
 
 
