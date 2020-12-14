@@ -1,3 +1,10 @@
+## [0.24.3](https://github.com/willclark/cuddly-disco/compare/v0.24.2...v0.24.3) (2020-12-14)
+
+
+### Bug Fixes
+
+* Remove npm token ([2eb719f](https://github.com/willclark/cuddly-disco/commit/2eb719f493c44d5f110bba6352c55a038e4641b6))
+
 ## [0.24.2](https://github.com/willclark/cuddly-disco/compare/v0.24.1...v0.24.2) (2020-12-14)
 
 
