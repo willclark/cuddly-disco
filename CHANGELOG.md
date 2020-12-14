@@ -1,3 +1,10 @@
+## [0.24.2](https://github.com/willclark/cuddly-disco/compare/v0.24.1...v0.24.2) (2020-12-14)
+
+
+### Bug Fixes
+
+* Use node@v2-beta ([85892e5](https://github.com/willclark/cuddly-disco/commit/85892e596ea8e74be9083c03dde68d101a086f00))
+
 ## [0.24.1](https://github.com/willclark/cuddly-disco/compare/v0.24.0...v0.24.1) (2020-12-14)
 
 
