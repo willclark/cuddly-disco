@@ -1,3 +1,10 @@
+## [0.24.4](https://github.com/willclark/cuddly-disco/compare/v0.24.3...v0.24.4) (2020-12-14)
+
+
+### Bug Fixes
+
+* Cache modules ([a8cc79c](https://github.com/willclark/cuddly-disco/commit/a8cc79cb7a2b102b38125d2bca0e6646fb9c1e8e))
+
 ## [0.24.3](https://github.com/willclark/cuddly-disco/compare/v0.24.2...v0.24.3) (2020-12-14)
 
 
