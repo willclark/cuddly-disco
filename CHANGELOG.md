@@ -1,3 +1,10 @@
+## [0.24.1](https://github.com/willclark/cuddly-disco/compare/v0.24.0...v0.24.1) (2020-12-14)
+
+
+### Bug Fixes
+
+* Add if conditional ([264c40a](https://github.com/willclark/cuddly-disco/commit/264c40add8028279ed581db85762bcd0b5118384))
+
 # [0.24.0](https://github.com/willclark/cuddly-disco/compare/v0.23.0...v0.24.0) (2020-12-14)
 
 
