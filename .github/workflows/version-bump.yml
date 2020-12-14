@@ -13,13 +13,13 @@ jobs:
         uses: actions/setup-node@v2-beta
         with:
           node-version: "12"
-      - name: Cache node packages
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+      # - name: Cache node packages
+      #   uses: actions/cache@v2
+      #   with:
+      #     path: ~/.npm
+      #     key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-node-
       - name: Generate semantic release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
