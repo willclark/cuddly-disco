@@ -1,3 +1,20 @@
+# [0.24.0](https://github.com/willclark/cuddly-disco/compare/v0.23.0...v0.24.0) (2020-12-14)
+
+
+### Bug Fixes
+
+* Add npm token ([a480657](https://github.com/willclark/cuddly-disco/commit/a4806573bea164fb90ec6e0b9fd3513524330b7d))
+* Adjust path ([ccf0576](https://github.com/willclark/cuddly-disco/commit/ccf057617beb8d20f48c27d806f152c4c4cb65f4))
+* Override assets ([5ff58bc](https://github.com/willclark/cuddly-disco/commit/5ff58bcc9c2d0de0e85c4cd4d362781e9ca099ad))
+* Remove cache settings ([57ca62c](https://github.com/willclark/cuddly-disco/commit/57ca62c43284418dd0461d47a19da112c05693c5))
+* Revert ([17dbbc4](https://github.com/willclark/cuddly-disco/commit/17dbbc4bb223c1a0cd37518d039f99192a9f3d75))
+
+
+### Features
+
+* Copy changes ([2c5cc97](https://github.com/willclark/cuddly-disco/commit/2c5cc977e02305bed79fc5f22da3d127a9416c4b))
+* Update release config ([48f9c55](https://github.com/willclark/cuddly-disco/commit/48f9c551a2135db2c76abb0b60e3324c412c9425))
+
 # [0.23.0](https://github.com/willclark/cuddly-disco/compare/v0.22.0...v0.23.0) (2020-12-07)
 
 
